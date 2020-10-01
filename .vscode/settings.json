@@ -1,0 +1,19 @@
+{
+	"editor.formatOnSave": true,
+	"files.exclude": {
+		"**/e2e": true,
+		"**/e2e.*": true,
+		"node_modules": true,
+		".githooks": true,
+		"yarn.lock": true,
+		"karma.conf.js": true,
+		".gitignore": true,
+		"browserslist": true,
+		"tsconfig.spec.json": true,
+		"src/main.ts": true,
+		"src/test.ts": true,
+		"src/polyfills.ts": true,
+		"src/favicon.ico": true,
+		"**/*.spec.*": true
+	}
+}
